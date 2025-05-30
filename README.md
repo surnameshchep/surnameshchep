@@ -1,7 +1,6 @@
-## Hi there 👋
+## Hi there i'm Artyom Shchepilov👋
 
 <!--
-**surnameshchep/surnameshchep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -10,7 +9,9 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 📫 How to reach me:
+[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?logo=telegram)](https://t.me/surname_s)
+
+- 😄 Pronouns: Я РУССКИЙ
 - ⚡ Fun fact: ...
 -->
