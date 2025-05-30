@@ -6,4 +6,4 @@
 - 🌱 I’m currently learning ML Enginiering in "The Founders"
 - 📫 How to reach me:
 [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?logo=telegram)](https://t.me/surname_s)
-- 😄 Pronouns: Я РУССКИЙ, КАКИЕ PRONOUNS?
+- 😄 Pronouns: Я РУССКИЙ, КАКИЕ PRONOUNS?!
