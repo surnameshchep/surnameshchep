@@ -1,6 +1,6 @@
 ## Hi there i'm Artyom Shchepilov👋
 
-
+I'll finish this file later...
 
 - 🔭 I’m currently working on nothing, but it's not for long
 - 🌱 I’m currently learning ML Enginiering in "The Founders"
